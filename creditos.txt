@@ -1,0 +1,29 @@
+Por exemplo: sites, mídias sociais, blogs, ebooks, boletins informativos, etc.
+
+Copie este link e coloque-o onde for visível, perto do local onde você esté 
+usando o recurso. Se não for possível, coloque-o no rodapé do seu site, blog ou 
+boletim informativo, ou na seção de créditos.
+
+<a href="https://br.freepik.com/fotos-vetores-gratis/mulher-confiante">
+    Mulher confiante foto criado por diana.grytsku - br.freepik.com
+</a>
+
+<a href="https://br.freepik.com/fotos-vetores-gratis/homem-africano">
+    Homem africano foto criado por cookie_studio - br.freepik.com
+</a>
+
+<a href="https://br.freepik.com/fotos-vetores-gratis/homem-rindo">
+    Homem rindo foto criado por cookie_studio - br.freepik.com
+</a>
+
+<a href="https://www.freepik.com/photos/african-lady">
+    African lady photo created by cookie_studio - www.freepik.com
+</a>
+
+<a href="https://www.freepik.com/photos/black-woman">
+    Black woman photo created by wayhomestudio - www.freepik.com
+</a>
+
+<a href="https://www.freepik.com/photos/happy-asian">
+    Happy asian photo created by benzoix - www.freepik.com
+</a>
